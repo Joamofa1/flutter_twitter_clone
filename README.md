@@ -156,7 +156,7 @@ Content Prefrences Page      |  Display Setting Page    |  Data Settings Page   
 |   |   |   '-- notificationPage.dart
 |   |   |-- profile
 |   |   |   |-- EditProfilePage.dart
-|   |   |   |-- follow
+|   |   |   |-- follower
 |   |   |   |   |-- followerListPage.dart
 |   |   |   |   '-- followingListPage.dart
 |   |   |   |-- profileImageView.dart
